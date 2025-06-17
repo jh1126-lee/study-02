@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-local_dev에서 수정
-=======
-ljh 에서 수정
->>>>>>> feature-ljh
